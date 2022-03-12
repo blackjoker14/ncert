@@ -1,0 +1,63 @@
+#header{
+    background-color: #aa87db;
+    color: white;
+    padding-left: 10%;
+    /*margin-top: -1.5%;*/
+}
+.img-responsive{
+    width: 04%;
+    float: left;
+    padding-right: 0.8%;
+}
+#Institude{
+    text-align: center;
+    font-size: 200%;
+}
+#nie{
+    margin-top: -40px;
+    color: white;
+}
+#ciet{
+    margin-top: -40px;
+    color: white;
+}
+#psscive{
+    margin-top: -40px;
+    color: white;
+}
+#RIE_Ajmer{
+    margin-top: -40px;
+    color: white;
+}
+
+  .column {
+    float: left;
+    
+    padding: 5px;
+  }
+  .row{
+      text-align: center;
+      content: "";
+    clear: both;
+    display: table;
+  }
+  a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: green;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  /* Clearfix (clear floats) */
+ 
